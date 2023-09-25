@@ -42,7 +42,7 @@ export default [
             ]
         },
     ],
-    //mobil
+    //mobilE
     [
         {
             title: 'E-COMMERCE',

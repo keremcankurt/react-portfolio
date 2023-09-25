@@ -1,6 +1,6 @@
 // eslint-disable-next-line import/no-anonymous-default-export
 export default [
-    ["I'm Kerem Can KURT", "Merhaba! Ben Kerem Can KURT"],
+    ["Hi! I'm Kerem Can KURT", "Merhaba! Ben Kerem Can KURT"],
     ["Download CV", "CV'yi İndir"],
     ["Skills", "Yetenekler"],
     ["Projects", "Projeler"],

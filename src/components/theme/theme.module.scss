@@ -1,0 +1,30 @@
+.container {
+    position: fixed;
+    top: 150px;
+    z-index: 100;
+    button{
+        width: 35px;
+        height: 35px;
+        
+    }
+    .openButton {
+        padding: 5px;
+        border-radius: 0 5px 5px 0;
+        border: 0;
+    }
+    .colors{
+        z-index: 100;
+        position: fixed;
+        top: 100px;
+        left: 36px;
+        background-color: rgb(77, 76, 76);
+        padding: 5px;
+        border-radius: 5px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); 
+        gap: 10px;
+        .color{
+            border-radius: 50%;
+        }
+    }
+}

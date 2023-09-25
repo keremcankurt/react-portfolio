@@ -1,0 +1,10 @@
+.container {
+    position: fixed;
+    top: 100px;
+    z-index: 100;
+    button{
+        padding: 5px;
+        border-radius: 0 5px 5px 0;
+        border: 0;
+    }
+}

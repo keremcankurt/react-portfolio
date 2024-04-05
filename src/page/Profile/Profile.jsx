@@ -46,7 +46,7 @@ export default function Profile({selectedTheme, selectedLanguage}) {
       }
     }
     const handleDownload = () => {
-      const fileUrl = selectedLanguage === 0 ? 'CV(ENG).pdf' : 'CV(TR).pdf' 
+      const fileUrl = 'CV(ENG).pdf'
       window.open(fileUrl, '_blank');
     };
   return (

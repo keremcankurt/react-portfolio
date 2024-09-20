@@ -1,4 +1,4 @@
-You can check it from [portfolio](https://keremcankurt.com.tr/)
+You can check it from [portfolio](https://keremcankurt.netlify.app)
 
 # Getting Started with Create React App
 
